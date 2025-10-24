@@ -25,19 +25,25 @@ Norton’s Resistance, RN:It is the look-back resistance across the load termina
 **CIRCUIT DIAGRAM: VERIFICATION OF NORTON’S THEOREM**
 
 **To measure IL**
+![WhatsApp Image 2025-10-24 at 14 10 47_96f81f07](https://github.com/user-attachments/assets/69c8f899-d9a7-416c-82c5-fcafd46a1fde)
+
 
 
 **To measure RTh or RN**
 
+![WhatsApp Image 2025-10-24 at 14 12 18_ebe32d4e](https://github.com/user-attachments/assets/b7947ba2-119f-48d3-a424-40f1680389fe)
 
 
 **To measure IN or Isc**
 
- 
+ ![WhatsApp Image 2025-10-24 at 14 12 32_495fe5ce](https://github.com/user-attachments/assets/044909d0-597e-4860-b0ca-f0f0f0265400)
+
 **Thevenin’s equivalent circuit**
 
+![WhatsApp Image 2025-10-24 at 14 12 53_2e35b36d](https://github.com/user-attachments/assets/9d2e17ac-11a9-4c94-a013-598b4b7b5bfd)
 
 **Norton’s equivalent circuit**
+![WhatsApp Image 2025-10-24 at 14 13 15_3b0fa74e](https://github.com/user-attachments/assets/1405d20e-0dda-4bb9-8ec7-9053ce1e1e1f)
 
 
 **PROCEDURE:**
@@ -72,6 +78,8 @@ Norton’s Resistance, RN:It is the look-back resistance across the load termina
 
 **TABULAR COLUMN: 1**
 To measure I L
+![WhatsApp Image 2025-10-24 at 14 17 10_c83851a0](https://github.com/user-attachments/assets/5522f500-5ef8-4629-bcd1-bf7947485417)
+
 
 Vi (volts)	IL (amps)
 
@@ -80,6 +88,8 @@ Vi (volts)	IL (amps)
 To measure RTh or RN
 
 Vi (volts)	RTh (Ω)
+![WhatsApp Image 2025-10-24 at 14 18 02_05db8c3e](https://github.com/user-attachments/assets/0b78d26d-11ac-45a2-9b96-00aac7469985)
+
 
 
 **TABULAR COLUMN:3**
@@ -87,7 +97,11 @@ Vi (volts)	RTh (Ω)
 To measure IN or Isc
 
 Vi (volts)	IN (amps)
-	
+
+![WhatsApp Image 2025-10-24 at 14 18 17_469d40c3](https://github.com/user-attachments/assets/c4fca6b2-abc0-4966-b7c0-23a3c56e2664)
+
+
+
 **MODEL CALCULATION:**
 
 Practical value of IL (from tabulation 1) =2.3mA
@@ -97,6 +111,13 @@ Practical value of IL (from tabulation 1) =2.3mA
 IL = IN * RN / ( RN+ RL ) = 2.43mA
 
 Theoretical calculation of IL ,IN and RTh(RN) for the given circuit:
+**calculation**
+
+![WhatsApp Image 2025-10-24 at 14 13 48_4f34cd75](https://github.com/user-attachments/assets/800a3783-cb81-4b34-a58f-2c29b99eeb26)
+
+![WhatsApp Image 2025-10-24 at 14 14 00_39f004d3](https://github.com/user-attachments/assets/e0236595-0dd9-4b0b-80ae-74b0a90f3f58)
+
+
  
 
 
